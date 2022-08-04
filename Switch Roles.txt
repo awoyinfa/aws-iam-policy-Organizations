@@ -3,4 +3,4 @@ Account number: <your-prod-account-number>
 
 Role: OrganizationAccountAccessRole
 
-Display name: DCT-PRODUCTION
+Display name: AWOYINFA-PRODUCTION
